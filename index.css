@@ -1,0 +1,203 @@
+.div {
+    height: 1900px;
+    border: 5px solid rgb(242, 7, 183);
+    background-image: url('./imageBackground.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center center; 
+    border-style: groove; 
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.first {
+    width: 300px;
+    height: 80px;
+    border: 7px solid rgb(243, 240, 240);
+    background-color: rgb(18, 18, 18);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-style:italic;
+    font-size: x-large;
+    
+    
+    position:relative; 
+    top: 10px; 
+    left: 20px; 
+}
+
+.second {
+    height: 50px;
+    width: 400px;
+    border: 7px solid  rgb(243, 240, 240);
+    background-color: black;
+    padding: 4px;
+    margin: 30px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    position: absolute;
+    top: 8px;
+    left: 260px; 
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.third {
+    width: 270px;
+    border: 7px solid  rgb(243, 240, 240);
+    background-color: black;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    position: absolute;
+    top: 10px;
+    left: 900px; 
+}
+
+.fourth {
+    width: 350px;
+    height: 600px;
+    border: 8px dashed rgb(10, 10, 10);
+    background-color:rgb(241, 245, 213);
+    position:relative;
+    top: 320px;
+    left: 720px;
+    text-align: center;
+    color: rgb(3, 3, 3);
+}
+
+.fifth {
+    text-align: center;
+    color: rgb(5, 177, 251);
+    font-weight: bold;
+    text-align: center;
+}
+
+.sixth {
+    height: 330px;
+    width: 340px;
+    border: 7px solid rgb(251, 252, 251);
+    border-radius: 600px;
+    position: absolute;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    top: 400px;
+    left: 50px;
+    background-color: rgb(231, 235, 222)
+}
+
+.seven {
+    height: 50px;
+    width: 450px;
+    border: 7px solid  rgb(243, 240, 240);
+    border-radius: 40px;
+    background-color: rgb(212, 236, 171);
+    padding-bottom: 10px;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    top: 1000px;
+    left: 450px;
+}
+
+dt {
+    top: 900px;
+    position: relative; 
+}
+
+.eight {
+    width: 250px;
+    height: 250px;
+    left: 80px;
+    top: 1150px;
+    border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+    background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
+
+.nine {
+    width: 250px;
+    height: 250px;
+    left: 520px;
+    top: 1150px;
+    border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+     background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
+
+.ten {
+    width: 250px;
+    height: 250px;
+    left: 960px;
+    top: 1150px;
+     border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+     background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
+
+.eleven {
+    width: 250px;
+    height: 250px;
+    left: 80px;
+    top: 1500px;
+    border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+    background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
+
+.twelve {
+    width: 250px;
+    height: 250px;
+    left: 520px;
+    top: 1500px;
+     border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+    background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
+
+.thirteen {
+    width: 250px;
+    height: 260px;
+    left: 960px;
+    top: 1500px;
+    border: 5px solid rgb(249, 251, 249);
+    border-radius: 30px;
+     background-color: rgb(110, 251, 176);
+    color: rgb(56, 56, 236);
+    text-align: center;
+    position: absolute;
+}
